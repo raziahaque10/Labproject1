@@ -1,0 +1,12 @@
+F:\Basis52Batch\Project01\CodeFusion\CodeFusion\bin\CodeFusion.dll.config
+F:\Basis52Batch\Project01\CodeFusion\CodeFusion\bin\CodeFusion.dll
+F:\Basis52Batch\Project01\CodeFusion\CodeFusion\bin\CodeFusion.pdb
+F:\Basis52Batch\Project01\CodeFusion\CodeFusion\obj\Debug\CodeFusion.csprojResolveAssemblyReference.cache
+F:\Basis52Batch\Project01\CodeFusion\CodeFusion\obj\Debug\CodeFusion.dll
+F:\Basis52Batch\Project01\CodeFusion\CodeFusion\obj\Debug\CodeFusion.pdb
+E:\DOTNET52BATCH\CodeFusion\CodeFusion\bin\CodeFusion.dll.config
+E:\DOTNET52BATCH\CodeFusion\CodeFusion\bin\CodeFusion.dll
+E:\DOTNET52BATCH\CodeFusion\CodeFusion\bin\CodeFusion.pdb
+E:\DOTNET52BATCH\CodeFusion\CodeFusion\obj\Debug\CodeFusion.csprojResolveAssemblyReference.cache
+E:\DOTNET52BATCH\CodeFusion\CodeFusion\obj\Debug\CodeFusion.dll
+E:\DOTNET52BATCH\CodeFusion\CodeFusion\obj\Debug\CodeFusion.pdb
